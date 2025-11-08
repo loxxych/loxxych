@@ -1,13 +1,13 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=hi!%20im%20loxxy,%2019&fontSize=52&fontColor=b0e386&fontAlign=50&fontAlignY=50&stroke=d4ff45&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ffa6e6"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&text=hi!%20im%20loxxy,%2019&fontSize=50&fontColor=b0e386&fontAlign=50&fontAlignY=60&stroke=d4ff45&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ffa6e6"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=70&section=footer&reversal=false&fontSize=70&fontColor=381d2c&fontAlign=50&fontAlignY=50&stroke=-&desc=YOUR%20FELLOW%20%22CODER%22&descSize=40&descAlign=50&descAlignY=50&textBg=false&color=f2c2dc"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=footer&reversal=false&fontSize=10&fontColor=381d2c&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=YOUR%20FELLOW%20%22CODER%22&descSize=30&descAlign=50&descAlignY=55&textBg=false&color=f2c2dc"  />
 </div>
 
 ###
