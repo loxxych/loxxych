@@ -1,25 +1,31 @@
-<h3 align="left">Hi! I'm loxxy, 19</h3>
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=hi!%20im%20loxxy,%2019&fontSize=52&fontColor=b0e386&fontAlign=50&fontAlignY=50&stroke=d4ff45&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=ffa6e6"  />
+</div>
 
 ###
 
-<h5 align="left">- Second year hse software engineering student<br>- Just trying to figure things out honestly<br>- Professional jam lover</h5>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=70&section=footer&reversal=false&fontSize=70&fontColor=381d2c&fontAlign=50&fontAlignY=50&stroke=-&desc=YOUR%20FELLOW%20%22CODER%22&descSize=40&descAlign=50&descAlignY=50&textBg=false&color=f2c2dc"  />
+</div>
+
+###
+
+<p align="left">- Second year hse software engineering student<br>- Just trying to figure things out honestly<br>- Professional jam lover</p>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
