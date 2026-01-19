@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Second year hse software engineering student - Professional jam lover</p>
+<p align="left">- Second year hse software engineering student<br> - Professional jam lover</p>
 
 ###
 
