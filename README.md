@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Second year hse software engineering student<br> - iOS developer</p>
+<p align="left">- Third year hse software engineering student<br> - experince in iOS - (hopefully) future go dev</p>
 
 ###
 
